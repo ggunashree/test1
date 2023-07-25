@@ -1,3 +1,4 @@
 a=12
 b=12
 print("sum=",a+b)
+print("difference=",a-b)
